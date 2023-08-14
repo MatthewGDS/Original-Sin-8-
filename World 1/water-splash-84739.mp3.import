@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/water-splash-84739.mp3-89cca82f573e09d96f0cf6773e1be44e.mp3str"
+
+[deps]
+
+source_file="res://World 1/water-splash-84739.mp3"
+dest_files=[ "res://.import/water-splash-84739.mp3-89cca82f573e09d96f0cf6773e1be44e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
